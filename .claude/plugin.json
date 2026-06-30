@@ -1,0 +1,9 @@
+{
+  "name": "browse-site-optimizer",
+  "displayName": "Browse Site Optimizer",
+  "version": "1.0.0",
+  "description": "A Claude plugin that improves browser navigation by learning from previous failures and applying specialized browsing skills.",
+  "author": "Jumana Sakhnini"
+  
+  
+}
